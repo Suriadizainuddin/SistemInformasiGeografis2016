@@ -37,7 +37,7 @@ Penjelasan
 2.  Jalankan map proxy dengan cara ketik perintah #vwsqi map proxy ini
 3.  Peta seudah bisa diakses di browser localhost
 
-Penutup
+Penutup   
 
  Kesimpulan Dari pernyataan diatas dapat disimpulkan bahwa dalam konfigurasi map server dan map proxy cukup mudah dengan menggunakan python karena pluginnya sudah tersedia
 
